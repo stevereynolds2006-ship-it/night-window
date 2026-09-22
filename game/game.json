@@ -1,0 +1,16 @@
+{
+  "name": "Night Window",
+  "consumable": "Claim ticket",
+  "price": "1000000000000000000",
+  "outcomes": [
+    { "name": "Sock that knows your name", "chanceBps": 1800, "reward": "200000000000000000" },
+    { "name": "Slightly used Thursday", "chanceBps": 2000, "reward": "350000000000000000" },
+    { "name": "Polite memo from gravity", "chanceBps": 1600, "reward": "500000000000000000" },
+    { "name": "Expired coupon for one consequence", "chanceBps": 1400, "reward": "700000000000000000" },
+    { "name": "Unionized pigeon", "chanceBps": 1100, "reward": "1000000000000000000" },
+    { "name": "Bottled leftovers of an idea", "chanceBps": 900, "reward": "1500000000000000000" },
+    { "name": "Pocket weather", "chanceBps": 700, "reward": "2500000000000000000" },
+    { "name": "The last good idea you almost had", "chanceBps": 350, "reward": "4000000000000000000" },
+    { "name": "A spare ending", "chanceBps": 150, "reward": "6000000000000000000" }
+  ]
+}
